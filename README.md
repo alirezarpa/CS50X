@@ -25,7 +25,8 @@ This repository is used to store my solutions to weekly assignments. You can cli
 Go ahead and take a peek at the solutions.
 
 ## Table of Contents
-
+- [Problem Set 0: Scratch](/Week0)
+  * [Scratch](/Week0/Scratch)
 
 
 I finished this course on August 15, 2022.
