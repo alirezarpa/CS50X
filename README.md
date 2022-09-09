@@ -1,4 +1,4 @@
-Harvard CS50x — 2022 solutions 😎
+Harvard CS50x — 2022 Solutions 😎
 =====================
 
 -   [Course Link](https://cs50.harvard.edu/x/2022/)
@@ -26,7 +26,7 @@ Go ahead and take a peek at the solutions.
 
 ## Table of Contents
 - [Problem Set 0: Scratch](/Week0)
-  * [Scratch](/Week0/Scratch)
+  * [Scratch](/Week0)
 
 
 I finished this course on August 15, 2022.
