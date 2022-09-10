@@ -27,6 +27,7 @@ Go ahead and take a peek at the solutions.
 ## Table of Contents
 - [Problem Set 0: Scratch](/Week0)
   * [Scratch](/Week0)
+==========================================
  - [Problem Set 1: C](/Week1)
   * [hello](/Week1/hello)
   * [cash](/Week1/cash)
