@@ -25,7 +25,7 @@ This repository is used to store my solutions to weekly assignments. You can cli
 Go ahead and take a peek at the solutions.
 
 ## Table of Contents
-- [Problem Set 0: C](/Week0)
+- [Problem Set 0: Scratch](/Week0)
 - [Problem Set 1: C](/Week1)
   * [hello](/Week1/hello)
   * [cash](/Week1/cash)
@@ -33,7 +33,7 @@ Go ahead and take a peek at the solutions.
   * mario
     + [less](/Week1/mario-less)
     + [more](/Week1/mario-more)
-- [Problem Set 2: Crypto](/pset2)
+- [Problem Set 2: Arrays](/Week2)
   * [caesar](/pset2/caesar)
   * [vigenere](/pset2/vigenere)
   * [crack](/pset2/crack)
