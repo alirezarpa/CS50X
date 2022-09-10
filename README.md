@@ -25,15 +25,15 @@ This repository is used to store my solutions to weekly assignments. You can cli
 Go ahead and take a peek at the solutions.
 
 ## Table of Contents
-- [Problem Set Scratch: C](/week0)
+- [Problem Set0: Scratch](/week0)
 
 - [Problem Set 1: C](/week1)
-  * [hello](/week1/hello)
-  * [cash](/week1/cash)
-  * [credit](/week1/credit)
-  * mario
-    + [less](/week1/mario-less)
-    + [more](/week1/mario-more)
+ * [hello](/week1/hello)
+ * [cash](/week1/cash)
+ * [credit](/week1/credit)
+ * mario
+  + [less](/week1/mario-less)
+  + [more](/week1/mario-more)
 
 
 I finished this course on August 15, 2022.
