@@ -38,11 +38,17 @@ Go ahead and take a peek at the solutions.
   * [Caesar](/Week2/caesar)
   * [Readability](/Week2/readability)
   * [Substitution](/Week2/substitution)
-- [Problem Set3: Music](/Week3)
+- [Problem Set3: Algorithms](/Week3)
   * [Lab3: Sort](/Week3/lab3/sort)
   * [Runoff](/Week3/runoff)
   * [Plurality](/Week3/plurality)
   * [Tideman](/Week3/tideman)
+- [Problem Set 4: Memory](/Week4)
+  * [Lab4: Volume](/Week4/lab4/volume)
+  * [Recover](/Week4/recover)
+  * Filter
+    + [less](/Week4/filter-less)
+    + [more](/Week4/filter-more)
 
 
 
