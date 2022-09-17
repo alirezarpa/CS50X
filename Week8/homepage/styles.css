@@ -1,0 +1,26 @@
+#profile-picture {
+    margin-top: 1em;
+    margin-bottom: 2em;
+  }
+
+  @media (min-width: 768px) {
+
+    #home-par {
+      color: whitesmoke;
+      border-radius: 15px;
+    }
+
+    #home-par {
+      margin-top: 20%;
+      margin-right: 25%;
+      font-size: 24px;
+    }
+  }
+
+  #skill-list > li {
+    font-weight: bold;
+  }
+
+  #skill-list {
+    list-style: none;
+  }
