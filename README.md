@@ -49,8 +49,31 @@ Go ahead and take a peek at the solutions.
   * Filter
     + [less](/Week4/filter-less)
     + [more](/Week4/filter-more)
-
-
+- [Problem Set 5: Data Structures](/Week5)
+  * [Lab3: Inheritance](/Week5/lab5/inheritance)
+  * [Speller](/Week5/speller)
+- [Problem Set 6: Python](/Week6)
+  * [Lab6: World Cup](/Week6/lab6/world-cup)
+  * [Sentimental Hello](/Week6/sentimental-hello)
+  * Sentimental Mario
+    + [less](/Week6/sentimental-mario-less)
+    + [more](/Week6/sentimental-mario-more)
+  * [Sentimental Cash](/Week6/sentimental-cash)
+  * [Sentimental Credit](/Week6/sentimental-credit)
+  * [Sentimental Readability](/Week6/sentimental-readability)
+  * [DNA](/Week6/DNA)
+- [Problem Set7: SQL](/Week7)
+  * [Lab7: Songs](/Week7/lab7/songs)
+  * [Movies](/Week7/movies)
+  * [Fiftyville](/Week7/fiftyville)
+- [Problem Set8: HTML, CSS, JavaScript](/Week8)
+  * [Lab8: Songs](/Week8/lab8/trivia)
+  * [Homepage](/Week8/homepage)
+- [Problem Set9: Flask](/Week9)
+  * [Lab8: Birthdays](/Week9/lab9/birthdays)
+  * [Finance](/Week9/finance)
+- [Problem Set10: Emoji](https://github.com/alirezarpa/Volume-Control-With-Hand-Detection)
+  * [Final Project](https://github.com/alirezarpa/Volume-Control-With-Hand-Detection)
 
 I finished this course on August 15, 2022.
 The picture below shows my certificate after completing all the assignments:
