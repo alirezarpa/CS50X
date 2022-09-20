@@ -26,6 +26,7 @@ Go ahead and take a peek at the solutions.
 
 ## Table of Contents
 - [Problem Set 0: Scratch](/Week0)
+
 - [Problem Set 1: C](/Week1)
   * [hello](/Week1/hello)
   * [cash](/Week1/cash)
@@ -33,11 +34,13 @@ Go ahead and take a peek at the solutions.
   * mario
     + [less](/Week1/mario-less)
     + [more](/Week1/mario-more)
+
 - [Problem Set 2: Arrays](/Week2)
   * [Lab2: Scrabble](/Week2/lab2/scrabble)
   * [Caesar](/Week2/caesar)
   * [Readability](/Week2/readability)
   * [Substitution](/Week2/substitution)
+
 - [Problem Set3: Algorithms](/Week3)
   * [Lab3: Sort](/Week3/lab3/sort)
   * [Runoff](/Week3/runoff)
@@ -49,9 +52,11 @@ Go ahead and take a peek at the solutions.
   * Filter
     + [less](/Week4/filter-less)
     + [more](/Week4/filter-more)
+
 - [Problem Set 5: Data Structures](/Week5)
   * [Lab3: Inheritance](/Week5/lab5/inheritance)
   * [Speller](/Week5/speller)
+
 - [Problem Set 6: Python](/Week6)
   * [Lab6: World Cup](/Week6/lab6/world-cup)
   * [Sentimental Hello](/Week6/sentimental-hello)
@@ -62,16 +67,20 @@ Go ahead and take a peek at the solutions.
   * [Sentimental Credit](/Week6/sentimental-credit)
   * [Sentimental Readability](/Week6/sentimental-readability)
   * [DNA](/Week6/DNA)
+  
 - [Problem Set7: SQL](/Week7)
   * [Lab7: Songs](/Week7/lab7/songs)
   * [Movies](/Week7/movies)
   * [Fiftyville](/Week7/fiftyville)
+
 - [Problem Set8: HTML, CSS, JavaScript](/Week8)
   * [Lab8: Songs](/Week8/lab8/trivia)
   * [Homepage](/Week8/homepage)
+
 - [Problem Set9: Flask](/Week9)
   * [Lab8: Birthdays](/Week9/lab9/birthdays)
   * [Finance](/Week9/finance)
+
 - [Problem Set10: Emoji](https://github.com/alirezarpa/Volume-Control-With-Hand-Detection)
   * [Final Project](https://github.com/alirezarpa/Volume-Control-With-Hand-Detection)
 
